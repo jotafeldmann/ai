@@ -7,6 +7,12 @@ description: Fetch today's top news from multiple sources in parallel and synthe
 
 Author: Jota Feldmann
 
+## Intro
+
+  The `daily-news` skill was originally created by [Superpowers](https://github.com/obra/superpowers) — an official plugin collection for Claude Code that extends the agent with powerful reusable workflows.
+
+  > Superpowers skills are loaded via the `Skill` tool in Claude Code. When you invoke `/daily-news`, the agent follows a multi-phase orchestration: it discovers live news sources, spawns parallel worker agents to fetch headlines, then synthesizes a ranked top-5 digest.
+
 ## Phase 1 — Discover sources
 
 You are the orchestrator for a multi-agent news digest.
