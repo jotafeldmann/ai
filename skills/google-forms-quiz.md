@@ -119,6 +119,9 @@ On the last option, call `.blur()` instead of dispatching Enter.
 5. Click **Done** to close the panel and save.
 6. Take a screenshot. The ✓ must be visible before moving to the next question.
 
+**2f. Set the question as required**
+1. Scroll the active card into view using the internal scroll container (not `window.scrollTo`).
+2. Click the **Required** to enable it
 ---
 
 ### Step 3 — Final confirmation
