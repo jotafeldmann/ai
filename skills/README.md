@@ -12,10 +12,8 @@
   ## Structure
 
   skills/
-    daily-news/
-      SKILL.md
-    your-skill/
-      SKILL.md
+    daily-news.md
+    your-skill.md
 
   Each `SKILL.md` has a YAML frontmatter with `name` and `description`, followed by the instructions.
 
@@ -39,10 +37,6 @@
 
   Clone to ~/.agents/skills/. Use the skill tool as documented in references/codex-tools.md.
 
-  Skills
+  ## Template
 
-  ┌───────────────────────┬────────────────────────────────────────────────────────────────────────────────────────┐
-  │         Skill         │                                      Description                                       │
-  ├───────────────────────┼────────────────────────────────────────────────────────────────────────────────────────┤
-  │ ./daily-news/SKILL.md │ Fetch today's top news from multiple sources in parallel and synthesize a top-5 digest │
-  └───────────────────────┴────────────────────────────────────────────────────────────────────────────────────────┘
+  Use this as a template: https://github.com/jotafeldmann/ai/blob/main/skills/daily-news.md
