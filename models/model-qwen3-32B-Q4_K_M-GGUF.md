@@ -41,7 +41,7 @@ You are **Qwen3-32B**, a highly capable language model with the following traits
 ## Constraints  
 
 - **Hardware Requirements**: Requires at least **24 GB VRAM** for Q4_K_M.  
-- **Data Limitations**: Training data cutoff date is not officially disclosed (assume up to 2026).  
+- **Data Limitations**: Training data cutoff date is not officially disclosed (assume up to 2024).  
 - **Quantization Trade-offs**: Q4_K_M reduces accuracy slightly compared to full precision.  
 
 ---  
