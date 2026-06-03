@@ -1,8 +1,7 @@
 ---
-
 name: english-language-evaluation
 description: Evaluate English language evidence with CEFR-aware precautions and distinguish provisional screening from validated CEFR determination
----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # English Language Evaluation
 
